@@ -3,6 +3,8 @@
 ### Laboratorio - Broker de Mensajes STOMP con WebSockets + HTML5 Canvas.
 
 
+### -Javier Fernando Silva León
+
 
 - Conectarse con un botón
 - publicar con eventos de mouse
